@@ -31,5 +31,5 @@ longer edge and y-axis parallel to the shorter edge
 
 * Hough-lines based corner detection.
 <video width="640" height="360" controls>
-  <source src="./doc/videos/houghlines.mp4" type="video/mp4">
+  <source src="./doc/videos/320p.mp4" type="video/mp4">
 </video>
