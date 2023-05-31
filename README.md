@@ -30,6 +30,5 @@ longer edge and y-axis parallel to the shorter edge
  ![Alt text](./doc/images/poses.png?raw=true "estimated poses")
 
 * Hough-lines based corner detection.
-<video width="320" height="180" controls>
-  <source src="./doc/videos/320p.mp4" type="video/mp4">
-</video>
+https://github.com/itej89/CameraPose_HoughTransform/assets/37236721/49f7db23-b8cb-4ae4-b072-3aec5fd96883
+
